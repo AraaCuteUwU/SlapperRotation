@@ -1,0 +1,7 @@
+name: SlapperRotation
+main: SlapperRotation\Main
+version: 1.2.2
+api: [4.0.0]
+author: [Vecnavium, jojoe77777]
+description: Slappers look at players!
+depend: [Slapper]
